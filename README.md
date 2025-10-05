@@ -2,7 +2,7 @@
 
 A clean and responsive Todo List application built with React and Tailwind CSS. This project demonstrates modern React principles including Hooks (`useState`, `useEffect`, `useContext`), component-based architecture, and centralized state management with the Context API. All todos are saved to the browser's Local Storage, so your tasks persist even after a page refresh.
 
-![Todo App Screenshot](https://ibb.co/zVpSTn8x)
+![alt text](https://github.com/adityathakar-25/todo-list/blob/main/to-do-img.png)
 
 ## ✨ Features
 
